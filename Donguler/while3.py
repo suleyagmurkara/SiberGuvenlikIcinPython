@@ -1,4 +1,4 @@
-# Toplama
+# Sıfırdan girilen sayıya kadar olan sayıların toplamı
 
 sayi = int(input("Sayı Giriniz: "))
 sayac = 0
