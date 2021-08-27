@@ -11,4 +11,3 @@ for i in range(3, sayi, 1):
             kontrol = True
     if kontrol == False:
         print(i)
-
