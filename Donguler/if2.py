@@ -1,4 +1,4 @@
-# Sınıf Kontrol
+# Liste Kontrol
 
 a_sinifi = ["Ahmet", "Mehmet"]
 b_sinifi = ["Ali", "Ayşe"]
