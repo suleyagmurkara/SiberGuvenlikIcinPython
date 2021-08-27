@@ -1,7 +1,5 @@
 def merhaba_dunya():
-    print("Nerhaba Dünya!")
+    print("Merhaba Dünya!")
 
 for i in range(0, 5):
     merhaba_dunya()
-
-
