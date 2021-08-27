@@ -11,7 +11,7 @@ for i in egitim:
     if str(i).isdecimal():
         rakam_sayici += 1
     else:
-        karakter_sayici +=1
+        karakter_sayici += 1
 
 print("Karakter sayısı: ", karakter_sayici)
 print("Rakam sayısı: ", rakam_sayici)
