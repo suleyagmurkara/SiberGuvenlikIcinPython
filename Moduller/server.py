@@ -1,9 +1,9 @@
-import socket
+import Socket
 
 host = "127.0.0.1"
 port = 2121
 
-with socket.socket() as soket:
+with Socket.socket() as soket:
     soket.bind((host, port))
     soket.listen()
     conn, addr = soket.accept()
